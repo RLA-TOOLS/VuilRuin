@@ -1,4 +1,5 @@
 # VULNRUIN - XSS Vulnerability Scanner & Exploiter
+CREATED BY: RedJester
 
 ## Description
 VULNRUIN is an automated tool designed to hunt for Cross-Site Scripting (XSS) vulnerabilities, including reflected, DOM-based, and even advanced injection techniques. It tests a target URL (or a list of URLs) by injecting a wide range of payloads—encoded in various ways—to identify exploitable weaknesses. While its primary goal is to **scan** for vulnerabilities, VULNRUIN also includes payloads that **auto exploit** certain weaknesses (e.g., triggering alerts, redirections, or page defacement) as a demonstration of the vulnerability.
